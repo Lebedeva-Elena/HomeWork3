@@ -119,9 +119,9 @@ public class Main {
 
     public static void task7() {
         System.out.println("Задача 7");
-        int one = 1;
-        int two = 2;
-        int three = 3;
+        int one = 5;
+        int two = 7;
+        int three = 10;
         if (one < two) {
             if (one < three) {
                 System.out.println("Значение числа " + one + " больше");
